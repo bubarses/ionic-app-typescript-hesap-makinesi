@@ -1,0 +1,7 @@
+{
+  "name": "hesap-makinesi",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
